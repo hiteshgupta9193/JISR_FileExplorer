@@ -1,0 +1,12 @@
+.context-menu {
+  padding: 10px;
+}
+
+.context-menu-item {
+  margin: 5px 0;
+}
+
+.context-menu-item:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
